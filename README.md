@@ -1,6 +1,8 @@
 <!-- Banner -->
 <p align="center">
-  <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/c32a1560-c639-46da-9eee-53a20f0e9ee2" />
+  
+  <img width="1130" height="412" alt="Screenshot 2025-12-25 at 4 38 13 PM" src="https://github.com/user-attachments/assets/137db990-df0b-4e0b-ad3a-a9298dbc3d45" />
+
 </p>
 <h1 align="center">Hi, I'm Sourav Kumar 👋</h1>
 
