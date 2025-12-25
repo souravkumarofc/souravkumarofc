@@ -27,7 +27,9 @@ Currently working at **AIMLEAP** and learning in public 🚀
 ---
 
 ## 🛠️ Tech Stack
-### Frontend
+
+
+**Frontend**
 - React.js
 - JavaScript (ES6+)
 - TypeScript
