@@ -8,7 +8,7 @@
 
 <p align="center">
   🚀 Frontend Developer | React.js | JavaScript | MERN <br/>
-  Building scalable & high-performance web applications
+  Building scalable, high-performance web applications with a strong focus on UX and performance.
 </p>
 
 ---
@@ -27,8 +27,7 @@ Currently working at **AIMLEAP** and learning in public 🚀
 ---
 
 ## 🛠️ Tech Stack
-
-**Frontend**
+### Frontend
 - React.js
 - JavaScript (ES6+)
 - TypeScript
