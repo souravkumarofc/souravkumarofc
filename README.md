@@ -1,10 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img 
-    src="https://github.com/user-attachments/assets/25434584-af35-44ca-8466-fa132180e569"
-    alt="Sourav Kumar | Frontend Developer"
-    style="max-width:100%; height:auto; max-height:260px;"
-  />
+  <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/c32a1560-c639-46da-9eee-53a20f0e9ee2" />
 </p>
 <h1 align="center">Hi, I'm Sourav Kumar 👋</h1>
 
