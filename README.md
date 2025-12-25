@@ -3,7 +3,7 @@
   <img 
     src="https://github.com/user-attachments/assets/25434584-af35-44ca-8466-fa132180e569"
     alt="Sourav Kumar | Frontend Developer"
-    width="900"
+    style="width:800px; max-height:220px; object-fit:cover;"
   />
 </p>
 
