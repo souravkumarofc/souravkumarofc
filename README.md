@@ -1,6 +1,10 @@
 <!-- Banner -->
 <p align="center">
-  <img width="1536" height="1024" alt="ChatGPT Image Dec 25, 2025, 03_11_08 PM" src="https://github.com/user-attachments/assets/25434584-af35-44ca-8466-fa132180e569" alt="Sourav Kumar | Frontend Developer" />
+  <img 
+    src="https://github.com/user-attachments/assets/25434584-af35-44ca-8466-fa132180e569"
+    alt="Sourav Kumar | Frontend Developer"
+    width="900"
+  />
 </p>
 
 <h1 align="center">Hi, I'm Sourav Kumar 👋</h1>
