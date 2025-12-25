@@ -35,7 +35,7 @@ I enjoy turning complex problems into clean, intuitive user experiences and cont
 ---
 
 ### 🔗 Let’s Connect
-- 🌐 Portfolio: https://sour-kumar.netlify.app  
+- 🌐 Portfolio: https://souravkumarofc.netlify.app/  
 - 💼 LinkedIn: https://linkedin.com/in/sourkumar  
 - 🐦 Twitter/X: https://x.com/Sour_Kr  
 
