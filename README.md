@@ -49,11 +49,13 @@ Currently working at **AIMLEAP** and learning in public 🚀
 
 ### Tools & Platforms
 - Git & GitHub  
-- npm  
+- NPM  
 - Postman  
 - Firebase  
 - ServiceNow  
-- Jira  
+- Jira
+- Bitbucket
+- VSCode
 
 ---
 
@@ -77,9 +79,9 @@ Currently working at **AIMLEAP** and learning in public 🚀
 ## 🔗 Let’s Connect
 
 - 🌐 Portfolio: https://souravkumarofc.netlify.app  
-- 💼 LinkedIn: https://www.linkedin.com/in/sourkumar/
-- 🐦 Twitter/X: https://x.com/Sour_Kr  
-- 🔗 All links: https://linktr.ee/sour_kr  
+- 💼 LinkedIn: https://www.linkedin.com/in/souravkumarofc/
+- 🐦 Twitter/X: https://x.com/souravkumarofc 
+- 🔗 All links: https://linktr.ee/souravkumarofc  
 
 ---
 
