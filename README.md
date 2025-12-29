@@ -84,9 +84,6 @@ Currently working at **AIMLEAP** and learning in public 🚀
 - 🔗 <a href="https://linktr.ee/souravkumarofc" target="_blank" rel="noopener noreferrer">All links</a>
 
 ---
- 
-
----
 
 ⭐ If you like my work, consider starring my repositories!
 
