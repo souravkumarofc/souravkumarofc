@@ -78,10 +78,13 @@ Currently working at **AIMLEAP** and learning in public 🚀
 
 ## 🔗 Let’s Connect
 
-- 🌐 Portfolio: https://souravkumarofc.netlify.app  
-- 💼 LinkedIn: https://www.linkedin.com/in/souravkumarofc/
-- 🐦 Twitter/X: https://x.com/souravkumarofc 
-- 🔗 All links: https://linktr.ee/souravkumarofc  
+- 🌐 <a href="https://souravkumarofc.netlify.app" target="_blank" rel="noopener noreferrer">Portfolio</a>
+- 💼 <a href="https://www.linkedin.com/in/souravkumarofc/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+- 🐦 <a href="https://x.com/souravkumarofc" target="_blank" rel="noopener noreferrer">Twitter / X</a>
+- 🔗 <a href="https://linktr.ee/souravkumarofc" target="_blank" rel="noopener noreferrer">All links</a>
+
+---
+ 
 
 ---
 
